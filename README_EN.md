@@ -2,6 +2,15 @@
 
 A clean and modern personal navigation site that helps you better organize and access your favorite resources.
 
+<div align="center">
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-blue?style=for-the-badge&logo=github)](https://flatcc.github.io/mynavi/)
+[![中文](https://img.shields.io/badge/中文-中文文档-red?style=for-the-badge&logo=read-the-docs)](README.md)
+
+</div>
+
+---
+
 ## ✨ Features
 
 - 🎯 **Smart Search** - Full-text search supporting title, description, tags, and categories

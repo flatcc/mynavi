@@ -1,6 +1,15 @@
-# 🚀 个人导航站
+# 🚀 个人导航站点
 
-一个简洁现代的个人导航站，帮助您更好地组织和访问常用资源。
+一个简洁现代的个性化导航站点，帮助您更好地整理和访问您喜爱的资源。
+
+<div align="center">
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线预览-blue?style=for-the-badge&logo=github)](https://flatcc.github.io/mynavi/)
+[![English](https://img.shields.io/badge/English-英文文档-green?style=for-the-badge&logo=read-the-docs)](README_EN.md)
+
+</div>
+
+---
 
 ## ✨ 功能特性
 
